@@ -1,0 +1,13 @@
+1-Navbar
+2-content
+3-Why
+4-About
+5-coutup
+6-introduce
+7-solution
+8-FAQs
+9-Project
+10-TESTIMONIALS
+11-Build
+12-footer
+13-social
